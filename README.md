@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It tracks the latest launches from SpaceX using graphql. You can see the video it's based from here: https://youtu.be/oxUPXhZ1t9I
+Article here: https://spacejelly.dev/posts/how-to-fetch-graphql-data-in-next-js-with-apollo-graphql/
 
 ## Getting Started
 
