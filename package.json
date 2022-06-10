@@ -1,5 +1,5 @@
 {
-  "name": "spacex-launches",
+  "name": "spacex-youtubePosts",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,9 +11,9 @@
   "dependencies": {
     "@apollo/client": "^3.5.9",
     "graphql": "^16.3.0",
-    "next": "12.1.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   },
   "devDependencies": {
     "eslint": "8.9.0",
