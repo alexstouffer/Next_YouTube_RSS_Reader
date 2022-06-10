@@ -39,7 +39,7 @@ export default function Home({ posts }) {
                   />
                 </div>
 
-                <h3>{post.node.title}</h3>
+                {/* <h3>{post.node.title}</h3> */}
                 <p>
                   <strong>Published:</strong>{' '}
                   {new Date(
